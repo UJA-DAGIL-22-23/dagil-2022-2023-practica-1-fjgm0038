@@ -13,6 +13,7 @@ Alumno de Desarrollo Ágil en el curso 2022/23.
 * **Correo**: fjgm0038@red.ujaen.es
 * **Trello**: https://trello.com/b/mxlSOUd7/dágil-práctica-1
 <img src='/pr1_trello.jpg'>
+<img src='/pr1_trello_final.jpg'>
 
 * **GitHub**: fjgm0038 https://github.com/fjgm0038/
 
