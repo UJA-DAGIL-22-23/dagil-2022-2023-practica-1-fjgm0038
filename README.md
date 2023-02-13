@@ -5,7 +5,8 @@ Tus tareas consisten en:
 1) Modificar este fichero README.md de modo que pongas tus datos en formato MarkDown.
 2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
 
-# 1) Modificar este fichero README.md de modo que pongas tus datos en formato MarkDown.
+## 1) Modificar este fichero README.md de modo que pongas tus datos en formato MarkDown.
+
 ### Francisco Javier Gálvez Marín
 <img src='/fjgm0038.jpg' width='200px'>
 
